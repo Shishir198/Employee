@@ -7,7 +7,7 @@ import Profile from './screen/profiles'
 import {FAB} from 'react-native-paper'
 import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
-
+abcd abcd
 
 function App() {
   const Stack = createStackNavigator();
